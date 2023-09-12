@@ -1,1 +1,1 @@
-# salonsoftware
+# Jeyla Studio Salon Software
