@@ -9,7 +9,7 @@
 
 :tada: :tada: [Download latest release here](https://github.com/jeylastudio/salonsoftware/releases) :tada: :tada:
 
-*Note for macOS users: you will need to run this command before running Jeyla Studio:
+*Note for macOS users: you will need to execute this command (only once) in a terminal window before running Jeyla Studio:
 ```cmd
 xattr -r -d com.apple.quarantine /Applications/JeylaStudio.app
 ```
