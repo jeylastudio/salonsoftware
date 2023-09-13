@@ -17,23 +17,23 @@ xattr -r -d com.apple.quarantine /Applications/JeylaStudio.app
 
 ## <a id="about"></a>About
 Jeyla Studio is a fully featured salon management application. Features include appointment scheduling, service management, product management, client management, staff management, point of sale and extensive reporting functionality.
-
+<h4>Home Screen</h4>
 <img src="./docs/images/ss-home-salon-software.png" alt="Home Screen">
-
+<h4>Appointment Calendar Screen</h4>
 <img src="./docs/images/ss-appointment-salon-software.png" alt="Appointment Calendar Screen">
-
+<h4>Point of Sale Screen</h4>
 <img src="./docs/images/ss-sales-salon-software.png" alt="Point of Sale Screen">
-
+<h4>Client Profies Screen</h4>
 <img src="./docs/images/ss-client-salon-software.png" alt="Client Profies Screen">
-
+<h4>Staff Profles Screen</h4>
 <img src="./docs/images/ss-staff-salon-software.png" alt="Staff Profles Screen">
-
+<h4>Staff Roster Screen</h4>
 <img src="./docs/images/ss-roster-salon-software.png" alt="Staff Roster Screen">
-
-<img src="./docs/images/ss-services-salon-software.png" alt="Services Management Screen">
-
+<h4>Service Management Screen</h4>
+<img src="./docs/images/ss-services-salon-software.png" alt="Service Management Screen">
+<h4>Stock Management Screen</h4>
 <img src="./docs/images/ss-stock-salon-software.png" alt="Stock Management Screen">
-
-<img src="./docs/images/ss-reports-salon-software.png" alt="Services Management Screen">
-
+<h4>Reports Screen</h4>
+<img src="./docs/images/ss-reports-salon-software.png" alt="Reports Screen">
+<h4>Settings Screen</h4>
 <img src="./docs/images/ss-settings-salon-software.png" alt="Settings Screen">
