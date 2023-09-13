@@ -23,10 +23,10 @@ Jeyla Studio is a fully featured salon management application. Features include 
 <img src="./docs/images/ss-appointment-salon-software.png" alt="Appointment Calendar Screen">
 <h4>Point of Sale Screen</h4>
 <img src="./docs/images/ss-sales-salon-software.png" alt="Point of Sale Screen">
-<h4>Client Profies Screen</h4>
-<img src="./docs/images/ss-client-salon-software.png" alt="Client Profies Screen">
-<h4>Staff Profles Screen</h4>
-<img src="./docs/images/ss-staff-salon-software.png" alt="Staff Profles Screen">
+<h4>Client Profiles Screen</h4>
+<img src="./docs/images/ss-client-salon-software.png" alt="Client Profiles Screen">
+<h4>Staff Profiles Screen</h4>
+<img src="./docs/images/ss-staff-salon-software.png" alt="Staff Profiles Screen">
 <h4>Staff Roster Screen</h4>
 <img src="./docs/images/ss-roster-salon-software.png" alt="Staff Roster Screen">
 <h4>Service Management Screen</h4>
