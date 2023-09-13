@@ -4,3 +4,12 @@
     <h1>Jeyla Studio Salon Software</h1>
     <h3>Free Salon Management Software</h3>
 </div>
+
+## <a id="download-install"></a>Download/Install
+
+:tada: :tada: [Download latest release here](https://github.com/jeylastudio/salonsoftware/releases) :tada: :tada:
+
+*Note for macOS users: you will need to run this command before running Jeyla Studio:
+```cmd
+xattr -r -d com.apple.quarantine /Applications/JeylaStudio.app
+```
