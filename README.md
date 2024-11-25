@@ -7,6 +7,8 @@
 
 ## <a id="download-install"></a>Download/Install
 
+<img src="https://img.shields.io/github/downloads/jeylastudio/salonsoftware/total"/>
+
 :tada: :tada: [Download latest release here](https://github.com/jeylastudio/salonsoftware/releases) :tada: :tada:
 
 > **Note:**
